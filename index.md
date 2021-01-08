@@ -45,13 +45,20 @@ dynamic pricing conditions.
 
 ## PUBLICATIONS
 [1] **Deng L**, Li Z, Sun H, et al. Generalized locational marginal pricing in a heat-and-electricity-integrated market[J]. IEEE Transactions on Smart Grid, 2019, 10(6): 6414-6425. (SCI indexed, IF=8.27)
+
 [2] **Deng L**, Zhang X, Sun H. Real-time Autonomous Trading in the Electricity-and-Heat Distribution Market Based on Blockchain[C]. 2019 IEEE Power Energy Society General Meeting (PESGM). IEEE, 2019: 1-5. (EI indexed, Best paper award).
+
 [3] **Deng L**, Sun H, Chen R, Guo Q. Research on Nodal Energy Price of Combined Heat and Power System for Energy Internet[J]. Power System Technology. 2016(11): 3375-3382. (in Chinese, EI indexed)
+
 [4] Deng L, Zhang X, Yang T, Sun H. Optimal scheduling of integrated heat and electricity systems: a tightening McCormick approach[J]. Journal of Modern Power System and Clean Energy. (Under review).
+
 [5] Deng L, Zhang X, Yang T, Sun H, Oren S. Community Energy Storage Management forWelfare Optimization Using Markov Decision
 Process[J]. (Under review)
+
 [6] Yang T, Guo Y, Deng L, et al. A Linear Branch Flow Model for Radial Distribution Networks and its Application to Reactive Power Optimization and Network Reconfiguration[J]. IEEE Transactions on Smart Grid, 2020.
+
 [7] Yang T, Guo Y, Deng L, et al. A Distribution System Loss Allocation Approach based on a Modified DistFlow Model [C]//2020 IEEE Power Energy Society General Meeting (PESGM). IEEE, 2020: 1-5. (EI indexed, Best paper award)
+
 
 ## OTHER SKILLS
 **Software**   Matlab, Python, C++, commercial solvers: Gurobi, Yalmip, Cplex.
