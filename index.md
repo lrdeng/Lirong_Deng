@@ -27,7 +27,7 @@ dynamic pricing conditions.
 **Developed and designed an autonomous trading mechanism in integrated energy market**
 - Proposed the trading mechanism based on blockchain for privacy protecting and multi-party coordination.
 - Created a modified distributed algorithm to accelerate the solution process.
-- First authored a conference paper awarded as the [best conference paper](https://www.sigs.tsinghua.edu.cn/xxxw/115204.jhtml)
+- First authored a conference paper awarded as the best conference paper
 
 **Developed an integrated pricing method for integrated energy market**
 - Collaborated in two projects on the optimization and control of multi-energy system management.
