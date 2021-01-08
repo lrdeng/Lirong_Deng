@@ -58,7 +58,7 @@ dynamic pricing conditions.
 
 [7] Yang T, Guo Y, **Deng L**, et al. [A Distribution System Loss Allocation Approach based on a Modified DistFlow Model](https://ieeexplore.ieee.org/abstract/document/9281770). 2020 IEEE Power Energy Society General Meeting (PESGM). IEEE, 2020: 1-5. (EI indexed, Best paper award)
 
-[8] Yang T, Guo Y, **Deng L**, et al. [A Quadratic Convex Approximation of Optimal Power Flow in Distribution System with Application in Loss Allocation](https://arxiv.org/pdf/2007.04289). 
+[8] Yang T, Guo Y, **Deng L**, et al. [A Quadratic Convex Approximation of Optimal Power Flow in Distribution System with Application in Loss Allocation](https://arxiv.org/pdf/2007.04289). (to be submitted)
 
 ## OTHER SKILLS
 **Software**   Matlab, Python, C++, commercial solvers: Gurobi, Yalmip, Cplex.
