@@ -62,4 +62,5 @@ dynamic pricing conditions.
 
 ## OTHER SKILLS
 **Software**   Matlab, Python, C++, commercial solvers: Gurobi, Yalmip, Cplex.
+
 **Languages**  English: proficient. Chinese: native.
