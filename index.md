@@ -16,54 +16,72 @@
 - Strong passions for applying expertise including statistical and optimization methods to tackle research and engineering challenges to advance modeling and uncertainty analysis of low-carbon economy, renewable energy, and market mechanisms.
 
 ## RESEARCH EXPERIENCE
-### Visiting Researcher, University of California, Berkeley, May 2019 - July 2020
+### Visiting Researcher
+**University of California, Berkeley, May 2019 - July 2020**
 - Developed a techno-economic study on storage management based on Markov decision process
 - Proposed a threshold structure of the optimal policy for a price-maker welfare-maximizing energy storage
 
-### Projects
-**Developed a techno-economic study on storage management based on Markov decision process**
-- Proposed a multi-stage management problem of a price-maker welfare-maximizing energy storage in a pool-based electricity
-market under stochastic renewable environment.
-- Developed a threshold structure of the optimal policy which helps to determine the optimal charging and discharging rates under
-dynamic pricing conditions.
+### Graduate Research Assistant
+**Tsinghua University, Aug. 2016 - Present**
+- Developed an integrated pricing method for integrated energy market
+- Designed a peer-to-peer trading mechanism based on blockchain for multi-party coordination
+- Proposed a chance-constrained energy and reserve co-optimization of integrated energy system considering temporal correlation of wind uncertainty
 
-**Developed and designed an autonomous trading mechanism in integrated energy market**
-- Proposed the trading mechanism based on blockchain for privacy protecting and multi-party coordination.
-- Created a modified distributed algorithm to accelerate the solution process.
-- First authored a conference paper awarded as the best conference paper
 
-**Developed an integrated pricing method for integrated energy market**
-- Collaborated in two projects on the optimization and control of multi-energy system management.
-- Proposed a pricing method, referred to as generalized locational marginal pricing, to reduce price cross-subsidies between different energy systems and guide customers for smart energy use.
-- Published two papers as the first author, including 1 SCI-indexed journal paper, 1 EI-indexed journal paper.
+## Project Experience
+### Optimal dispatch of power system, Jan. 2017 - June 2019
+- Designed advanced functions including flexible load modeling, source-grid-load-storage coordinated optimization, active and reactive power dispatch
+- Coded the advanced functions into the energy management system by C++ 
+- Visualized dispatch results and system states
+- Implemented the system in the Power Supply Bureau of Dongguan city    
+- Advanced the development of the project and completed the project defense
 
+### Basic research on multi-energy management, Sep. 2016 - Jan. 2021
+- Designed transaction mechanism of multi-energy market
+- Developed the pricing function in the multi-energy management system
+            
 ## TEACHING AND MENTORING EXPERIENCE
-- 2018-present: Mentored 1 graduate in his research projects and led to submission of 3 high-quality publications
-- 2017-2019: Graduate Teaching Assistant for two courses: dynamical system control, introduction to smart grid
+### Supervising, Sep. 2018 - Jan. 2021
+- Mentored graduate student's research on power flow optimization in distribution systems and published 3 papers}
+### Teaching, Sep. 2016 - Jan. 2019
+- Teaching assistant on two courses: dynamical system control, introduction to smart grid
+- Doctoral lecturer on smart grid courses to graduate students
 
-## AWARDS
-- 2017 National Scholarship
-- Best conference paper awards for IEEE PES General Meeting in both 2019 and 2020
-- 2020 Applied Energy excellent volunteer award
 
-## PUBLICATIONS
-[1] **Deng L**, Li Z, Sun H, et al. [Generalized locational marginal pricing in a heat-and-electricity-integrated market](https://ieeexplore.ieee.org/abstract/document/8666802/). IEEE Transactions on Smart Grid, 2019, 10(6): 6414-6425. (SCI indexed, IF=8.27)
+## PUBLICATIONS & WORKING PAPERS
+[1] **Lirong Deng**, Zhengshuo Li, Hongbin Sun, Qinglai Guo, Yinliang Xu, Runze Chen, Jianhui Wang, and Ye Guo. [Generalized locational marginal pricing in a heat-and-electricity-integrated market](https://ieeexplore.ieee.org/abstract/document/8666802/). IEEE Transactions on Smart Grid, 2019, 10(6): 6414-6425.
 
-[2] **Deng L**, Zhang X, Sun H. [Real-time Autonomous Trading in the Electricity-and-Heat Distribution Market Based on Blockchain](https://ieeexplore.ieee.org/abstract/document/8973842). 2019 IEEE Power Energy Society General Meeting (PESGM). IEEE, 2019: 1-5. (EI indexed, Best paper award).
+[2] **Lirong Deng**, Xuan Zhang, and Hongbin Sun. [Real-time Autonomous Trading in the Electricity-and-Heat Distribution Market Based on Blockchain](https://ieeexplore.ieee.org/abstract/document/8973842). 2019 IEEE Power Energy Society General Meeting (PESGM). IEEE, 2019: 1-5. (EI indexed, Best paper award).
 
-[3] **Deng L**, Sun H, Chen R, Guo Q. [Research on Nodal Energy Price of Combined Heat and Power System for Energy Internet](http://en.cnki.com.cn/Article_en/CJFDTOTAL-DWJS201611015.htm). Power System Technology. 2016(11): 3375-3382. (in Chinese, EI indexed)
+[3] **Lirong Deng**, Hongbin Sun, Runze Chen, and Qinglai Guo. [Research on Nodal Energy Price of Combined Heat and Power System for Energy Internet](http://en.cnki.com.cn/Article_en/CJFDTOTAL-DWJS201611015.htm). Power System Technology. 2016(11): 3375-3382. (in Chinese, EI indexed)
 
-[4] **Deng L**, Zhang X, Yang T, Sun H. [Optimal scheduling of integrated heat and electricity systems: a tightening McCormick approach](https://arxiv.org/abs/2011.13652). Journal of Modern Power System and Clean Energy. (Under review).
+[4] **Lirong Deng**, Xuan Zhang, Tianshu Yang, and Hongbin Sun. [Optimal scheduling of integrated heat and electricity systems: a tightening McCormick approach](https://arxiv.org/abs/2011.13652). Journal of Modern Power System and Clean Energy. (Under review).
 
-[5] **Deng L**, Zhang X, Yang T, Sun H, Oren S. [Community Energy Storage Management forWelfare Optimization Using Markov Decision Process](https://arxiv.org/abs/2011.13657). (Under review)
+[5] **Lirong Deng**, Xuan Zhang, Tianshu Yang, Hongbin Sun, and Shmuel Oren. [Community Energy Storage Management forWelfare Optimization Using Markov Decision Process](https://arxiv.org/abs/2011.13657). (Under review)
 
-[6] Yang T, Guo Y, **Deng L**, et al. [A Linear Branch Flow Model for Radial Distribution Networks and its Application to Reactive Power Optimization and Network Reconfiguration](https://ieeexplore.ieee.org/abstract/document/9268988/). IEEE Transactions on Smart Grid, 2020.
+[6] Tianshu Yang, Ye Guo, **Lirong Deng**, Hongbin Sun, and Wenchuan Wu. [A Linear Branch Flow Model for Radial Distribution Networks and its Application to Reactive Power Optimization and Network Reconfiguration](https://ieeexplore.ieee.org/abstract/document/9268988/). IEEE Transactions on Smart Grid, 2020.
 
-[7] Yang T, Guo Y, **Deng L**, et al. [A Distribution System Loss Allocation Approach based on a Modified DistFlow Model](https://ieeexplore.ieee.org/abstract/document/9281770). 2020 IEEE Power Energy Society General Meeting (PESGM). IEEE, 2020: 1-5. (EI indexed, Best paper award)
+[7] Tianshu Yang, Ye Guo, **Lirong Deng**, Han Shu, Xinwei Shen, and Hongbin Sun. [A Distribution System Loss Allocation Approach based on a Modified DistFlow Model](https://ieeexplore.ieee.org/abstract/document/9281770). 2020 IEEE Power Energy Society General Meeting (PESGM). IEEE, 2020: 1-5. (EI indexed, Best paper award)
 
-[8] Yang T, Guo Y, **Deng L**, et al. [A Quadratic Convex Approximation of Optimal Power Flow in Distribution System with Application in Loss Allocation](https://arxiv.org/pdf/2007.04289). (to be submitted)
+[8] Tianshu Yang, Ye Guo, **Lirong Deng**, Hongbin Sun, and Wenchuan Wu. [A Quadratic Convex Approximation of Optimal Power Flow in Distribution System with Application in Loss Allocation](https://arxiv.org/pdf/2007.04289). (to be submitted)
+
+## HONORS & AWARDS
+- **Best conference paper for 2020 IEEE PES General Meeting**, Awarded by IEEE Power \& Energy Society, August 2020.
+- **Best conference paper for 2019 IEEE PES General Meeting**, Awarded by IEEE Power \& Energy Society, August 2019. 
+- **Applied Energy excellent volunteer award**, Awarded by the Applied Energy Editorial Broad, June 2020.
+- **IEEE conference excellent volunteer award**, Awarded by the 1st IEEE Energy Internet and Energy System Integration IEEE Conference Broad, November 2017. 
+- **Graduate National Scholarship**, Awarded by the Chinese Ministry of Education, September 2017.
+- **Undergraduate National Scholarship**, Awarded by the Chinese Ministry of Education, September 2013.
 
 ## OTHER SKILLS
 **Software**   Matlab, Python, C++, commercial solvers: Gurobi, Yalmip, Cplex.
 
 **Languages**  English: proficient. Chinese: native.
+
+## VOLUNTEERING WORKS
+- Reviewer, IEEE Transactions on Smart Grid, IET Generation, Transmission \& Distribution. 
+- Editor, Applied Energy Wechat Subscription, 2018-2020.
+- Committee staff, the 1st IEEE Energy Internet and Energy System Integration IEEE Conference, 2017.
+- Volunteer, IEEE PES Women in Power committee, 2019. 
+- Committee staff, China Volleyball League, 2019.
+    
