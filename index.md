@@ -1,7 +1,10 @@
 # Personal Profile
 ## EDUCATION AND DEGREES
-- Ph.D. (expected in summer 2021), Tsinghua-Berkeley Shenzhen Institute, Tsinghua University, 2016.09-present
-- Bachelor of Science, Department of Electrical Engineering, North China Electric Power University, 2012.08-2016.07
+### Tsinghua University
+- Ph.D in Electrical Engineering, Aug. 2016 - June 2021
+- Supervisor: Prof. Hongbin Sun, IEEE Fellow
+- 
+
 
 ## SUMMARY
 - Interdisciplinary expertise in energy system modeling, energy market mechanism, policy studies, statistical and uncertainty analysis, and operational research
