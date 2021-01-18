@@ -1,24 +1,25 @@
 # Personal Profile
-## EDUCATION AND DEGREES
+## EDUCATION
 ### Tsinghua University
 - Ph.D in Electrical Engineering, Aug. 2016 - June 2021
 - Supervisor: Prof. Hongbin Sun, IEEE Fellow
-- 
+### University of California, Berkeley
+- Visiting PhD student in Department of Industrial Engineering and Operations Research, May. 2019 - July 2020
+- Supervisor: Prof. Shmuel Oren, IEEE Life Fellow
+### North China Electric Power University
+- Bachelor's Degree in Electrical Engineering, Aug. 2012 - June 2016
 
-
-## SUMMARY
-- Interdisciplinary expertise in energy system modeling, energy market mechanism, policy studies, statistical and uncertainty analysis, and operational research
-- In-depth knowledge in smart grids, power systemoptimization and control, convex optimization, distributed optimization, control
-theory, stochastic process, sustainability
-- Self-motivated, problem-solving oriented team leader and player with solid communication skills
-- Strong passions for applying expertise including statistical and optimization methods to tackle research and engineering challenges to advance modeling and uncertainty analysis of low-carbon economy, renewable energy, and market mechanisms in
-integrated energy systems
-- Led industrial collaborative projects on optimal dispatch of power system, completed one demonstration system coded by C++
+## PROFESSIONAL SUMMARY
+- Professional knowledge in power system optimization and control, electricity market, operations research, distributed optimization, stochastic process, sustainability;
+- Research interests include renewable energy, market mechanism, risk analytic, convex optimization, integrated energy system, energy storage;
+- Project team leader and player with solid communication skills: led industrial collaborative projects on optimal dispatch of power system, completed one demonstration system;
+- Strong passions for applying expertise including statistical and optimization methods to tackle research and engineering challenges to advance modeling and uncertainty analysis of low-carbon economy, renewable energy, and market mechanisms.
 
 ## RESEARCH EXPERIENCE
-### Positions
-- Graduate Research Assistant, Department of Electrical Engineering, Tsinghua University, 2016.08-present
-- Visiting Student Scholar, Department of Industrial Engineering and Operations Research, University of California, Berkeley, 2019.05-2020.07
+### Visiting Researcher
+University of California, Berkeley
+-Developed a techno-economic study on storage management based on Markov decision process
+-Proposed a threshold structure of the optimal policy for a price-maker welfare-maximizing energy storage
 
 ### Projects
 **Developed a techno-economic study on storage management based on Markov decision process**
