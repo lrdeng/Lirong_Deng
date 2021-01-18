@@ -16,10 +16,9 @@
 - Strong passions for applying expertise including statistical and optimization methods to tackle research and engineering challenges to advance modeling and uncertainty analysis of low-carbon economy, renewable energy, and market mechanisms.
 
 ## RESEARCH EXPERIENCE
-### Visiting Researcher
-University of California, Berkeley
--Developed a techno-economic study on storage management based on Markov decision process
--Proposed a threshold structure of the optimal policy for a price-maker welfare-maximizing energy storage
+### Visiting Researcher, University of California, Berkeley, May 2019 - July 2020
+- Developed a techno-economic study on storage management based on Markov decision process
+- Proposed a threshold structure of the optimal policy for a price-maker welfare-maximizing energy storage
 
 ### Projects
 **Developed a techno-economic study on storage management based on Markov decision process**
