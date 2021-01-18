@@ -74,9 +74,8 @@
 - **Undergraduate National Scholarship**, Awarded by the Chinese Ministry of Education, September 2013.
 
 ## OTHER SKILLS
-**Software**   Matlab, Python, C++, commercial solvers: Gurobi, Yalmip, Cplex.
-
-**Languages**  English: proficient. Chinese: native.
+- **Software**   Matlab, Python, C++, commercial solvers: Gurobi, Yalmip, Cplex.
+- **Languages**  English: proficient. Chinese: native.
 
 ## VOLUNTEERING WORKS
 - Reviewer, IEEE Transactions on Smart Grid, IET Generation, Transmission \& Distribution. 
