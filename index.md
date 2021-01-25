@@ -2,10 +2,10 @@
 ## EDUCATION
 ### Tsinghua University
 - Ph.D in Electrical Engineering, Aug. 2016 - June 2021
-- Supervisor: Prof. Hongbin Sun, IEEE Fellow
+- Supervisors: Prof. Hongbin Sun and Prof. Xuan Zhang
 ### University of California, Berkeley
 - Visiting PhD student in Department of Industrial Engineering and Operations Research, May. 2019 - July 2020
-- Supervisor: Prof. Shmuel Oren, IEEE Life Fellow
+- Supervisor: Prof. Shmuel Oren
 ### North China Electric Power University
 - Bachelor's Degree in Electrical Engineering, Aug. 2012 - June 2016
 
