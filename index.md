@@ -51,11 +51,11 @@
 ## PUBLICATIONS & WORKING PAPERS
 [1] **Lirong Deng**, Zhengshuo Li, Hongbin Sun, Qinglai Guo, Yinliang Xu, Runze Chen, Jianhui Wang, and Ye Guo. [Generalized locational marginal pricing in a heat-and-electricity-integrated market](https://ieeexplore.ieee.org/abstract/document/8666802/). IEEE Transactions on Smart Grid, 2019, 10(6): 6414-6425.
 
-[2] **Lirong Deng**, Xuan Zhang, and Hongbin Sun. [Real-time Autonomous Trading in the Electricity-and-Heat Distribution Market Based on Blockchain](https://ieeexplore.ieee.org/abstract/document/8973842). 2019 IEEE Power Energy Society General Meeting (PESGM). IEEE, 2019: 1-5. (EI indexed, Best paper award).
+[2] **Lirong Deng**, Xuan Zhang, Tianshu Yang, and Hongbin Sun. [Optimal operation of integrated heat and electricity systems: a tightening McCormick approach](https://arxiv.org/abs/2011.13652). Engineering. (Accepted).
 
-[3] **Lirong Deng**, Hongbin Sun, Runze Chen, and Qinglai Guo. [Research on Nodal Energy Price of Combined Heat and Power System for Energy Internet](http://en.cnki.com.cn/Article_en/CJFDTOTAL-DWJS201611015.htm). Power System Technology. 2016(11): 3375-3382. (in Chinese, EI indexed)
+[3] **Lirong Deng**, Xuan Zhang, and Hongbin Sun. [Real-time Autonomous Trading in the Electricity-and-Heat Distribution Market Based on Blockchain](https://ieeexplore.ieee.org/abstract/document/8973842). 2019 IEEE Power Energy Society General Meeting (PESGM). IEEE, 2019: 1-5. (EI indexed, Best paper award).
 
-[4] **Lirong Deng**, Xuan Zhang, Tianshu Yang, and Hongbin Sun. [Optimal scheduling of integrated heat and electricity systems: a tightening McCormick approach](https://arxiv.org/abs/2011.13652). Journal of Modern Power System and Clean Energy. (Under review).
+[4] **Lirong Deng**, Hongbin Sun, Runze Chen, and Qinglai Guo. [Research on Nodal Energy Price of Combined Heat and Power System for Energy Internet](http://en.cnki.com.cn/Article_en/CJFDTOTAL-DWJS201611015.htm). Power System Technology. 2016(11): 3375-3382. (in Chinese, EI indexed)
 
 [5] **Lirong Deng**, Xuan Zhang, Tianshu Yang, Hongbin Sun, and Shmuel Oren. [Community Energy Storage Management forWelfare Optimization Using Markov Decision Process](https://arxiv.org/abs/2011.13657). (Under review)
 
