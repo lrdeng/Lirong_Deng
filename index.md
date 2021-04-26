@@ -46,6 +46,7 @@
 ### Supervising, Sep. 2018 - Jan. 2021
 - Mentored graduate student's research on power flow optimization in distribution systems and published 3 papers}
 
+
 ### Teaching, Sep. 2016 - Jan. 2019
 - Teaching assistant on two courses: dynamical system control, introduction to smart grid
 - Doctoral lecturer on smart grid courses to graduate students
